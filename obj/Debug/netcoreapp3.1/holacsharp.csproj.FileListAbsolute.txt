@@ -1,0 +1,14 @@
+D:\Users\jonat\source\repos\holacsharp\bin\Debug\netcoreapp3.1\holacsharp.exe
+D:\Users\jonat\source\repos\holacsharp\bin\Debug\netcoreapp3.1\holacsharp.deps.json
+D:\Users\jonat\source\repos\holacsharp\bin\Debug\netcoreapp3.1\holacsharp.runtimeconfig.json
+D:\Users\jonat\source\repos\holacsharp\bin\Debug\netcoreapp3.1\holacsharp.runtimeconfig.dev.json
+D:\Users\jonat\source\repos\holacsharp\bin\Debug\netcoreapp3.1\holacsharp.dll
+D:\Users\jonat\source\repos\holacsharp\bin\Debug\netcoreapp3.1\holacsharp.pdb
+D:\Users\jonat\source\repos\holacsharp\obj\Debug\netcoreapp3.1\holacsharp.csproj.AssemblyReference.cache
+D:\Users\jonat\source\repos\holacsharp\obj\Debug\netcoreapp3.1\holacsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jonat\source\repos\holacsharp\obj\Debug\netcoreapp3.1\holacsharp.AssemblyInfoInputs.cache
+D:\Users\jonat\source\repos\holacsharp\obj\Debug\netcoreapp3.1\holacsharp.AssemblyInfo.cs
+D:\Users\jonat\source\repos\holacsharp\obj\Debug\netcoreapp3.1\holacsharp.csproj.CoreCompileInputs.cache
+D:\Users\jonat\source\repos\holacsharp\obj\Debug\netcoreapp3.1\holacsharp.dll
+D:\Users\jonat\source\repos\holacsharp\obj\Debug\netcoreapp3.1\holacsharp.pdb
+D:\Users\jonat\source\repos\holacsharp\obj\Debug\netcoreapp3.1\holacsharp.genruntimeconfig.cache
